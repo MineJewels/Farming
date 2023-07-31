@@ -1,0 +1,7 @@
+org\minejewels\jewelsfarming\crop\Crop.class
+org\minejewels\jewelsfarming\listeners\PlaceListener.class
+org\minejewels\jewelsfarming\crop\registry\CropRegistry.class
+org\minejewels\jewelsfarming\JewelsFarming.class
+org\minejewels\jewelsfarming\listeners\BreakListener.class
+org\minejewels\jewelsfarming\crop\task\ResetTask.class
+org\minejewels\jewelsfarming\events\PlayerFarmEvent.class

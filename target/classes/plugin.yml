@@ -1,0 +1,5 @@
+name: JewelsFarming
+version: '1.0.0'
+main: org.minejewels.jewelsfarming.JewelsFarming
+api-version: '1.19'
+depend: [AbyssLib, JewelsLevels]

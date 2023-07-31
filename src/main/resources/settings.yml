@@ -1,0 +1,18 @@
+farm-worlds:
+  - "world"
+
+reset: 3 # All crops reset every 3 seconds
+
+crops:
+  wheat:
+    experience-per: 1
+    material: "WHEAT"
+    level-required: 1
+  carrots:
+    experience-per: 1
+    material: "CARROTS"
+    level-required: 5
+  potatoes:
+    experience-per: 1
+    material: "POTATOES"
+    level-required: 10

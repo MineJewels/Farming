@@ -1,0 +1,21 @@
+messages:
+  "cannot-break":
+    message:
+      enabled: true
+      value:
+        - "&c&l[!] &cYou cannot break blocks here!"
+  "cannot-place":
+    message:
+      enabled: true
+      value:
+        - "&c&l[!] &cThis block is currently reserved for a crop event!"
+  "hoe-required":
+    message:
+      enabled: true
+      value:
+        - "&c&l[!] &cYou need a harvester hoe in your hand!"
+  "level-too-low":
+    message:
+      enabled: true
+      value:
+        - "&c&l[!] &cYou need level &4%level%&c to mine %crop%!"
